@@ -1,8 +1,6 @@
-name: Keyboard-Prototype_Mk1
+name: prototype_mk1_dongle_nv
 
 build:
   cmake: .
-  kconfig: Kconfig
   settings:
     board_root: .
-    dts_root: app
